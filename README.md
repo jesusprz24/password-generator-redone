@@ -30,4 +30,4 @@ This application uses an MIT license
 https://github.com/jesusprz24/password-generator-redone
 
 # Live URL:
-
+https://jesusprz24.github.io/password-generator-redone/
