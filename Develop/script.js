@@ -8,4 +8,18 @@ generateButton.addEventListener("click", () => {
     alert("Password length must be a number between 8 and 128");
     return;
   }
-})
+
+  const uppercase = confirm("Do you want to include uppercase letters?");
+  const lowercase = confirm("Do you want to include lowercase letters?");
+  const symbols = confirm("Do you want to include symbols?");
+  const numbers = confirm("Do you want to include numbers?");
+
+  let characters = "";
+  if (uppercase) characters += "ABCDEFGHIJKLMNOPQRSTUVWXZ";
+  if (lowercase) characters += "abcdefghijklmnopqrstuvwxz";
+  if (symbols) characters += "!@#$%^&*()_+-=";
+  if (numbers) characters = "0123456789";
+
+  }
+
+);
