@@ -24,7 +24,7 @@ Click on the red button for it to give you random passwords. If you would like c
 This application uses an MIT license
 
 # Screenshot:
-![alt text](./images/screenshot.png"screenshot")
+![alt text](./images/screenshot.png "screenshot")
 
 # Github URL:
 https://github.com/jesusprz24/password-generator-redone
